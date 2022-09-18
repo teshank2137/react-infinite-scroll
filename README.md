@@ -1,9 +1,7 @@
 # React Infinite Scroll
 
-An React application which shows how we can achive "infinite scrolling" for our backend api.
-For implementing in shown way API must support limit or pagination.
+A React application that shows how we can achieve "infinite scrolling" for our backend API. For implementation in shown way API must support limit or pagination.
 
- We are using a custom Hook to do feching and taking care of state.
- Intersection Observer is used to know when then last element is on the screen.
+We are using a custom Hook to do fetching and taking care of the state. Intersection Observer is used to know when the last element is on the screen.
  
  
